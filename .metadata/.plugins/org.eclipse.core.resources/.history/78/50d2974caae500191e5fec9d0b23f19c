@@ -1,0 +1,5 @@
+package mod.search.model;
+
+public class MentorCalendar {
+
+}

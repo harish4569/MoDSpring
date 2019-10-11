@@ -1,0 +1,5 @@
+package mod.payments.controller;
+
+public class PaymentController {
+
+}

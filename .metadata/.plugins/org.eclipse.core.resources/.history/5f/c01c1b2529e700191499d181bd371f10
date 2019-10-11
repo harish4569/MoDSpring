@@ -1,0 +1,10 @@
+spring.application.name=MODGateway
+server.port=8881
+eureka.client.service-url.defaultZone=http://localhost:8888/eureka/
+security.basic.enable: false
+management.security.enabled: true
+zuul.routes.search.serviceId=http://localhost:8096
+zuul.routes.users.serviceId=http://localhost:8091
+zuul.routes.technology.serviceId=http://localhost:8093
+zuul.routes.training.serviceId=http://localhost:8092
+zuul.routes.payment.serviceId=http://localhost:8095

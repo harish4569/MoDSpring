@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="MODServer"/>
+<aop-project name="MODMentorSearch"/>
+<aop-project name="MODGateWay"/>
+<aop-project name="MODTraining"/>
+<aop-project name="MODTechnologies"/>
+<aop-project name="FirstSpring"/>
+<aop-project name="MODPayment"/>
+<aop-project name="MODUsers"/>
+</aop-reference-model>

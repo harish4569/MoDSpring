@@ -1,0 +1,5 @@
+package mod.payments.repository;
+
+public interface PaymentsRepository {
+
+}

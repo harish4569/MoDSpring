@@ -1,0 +1,5 @@
+package mod.payments.model;
+
+public class Payment {
+
+}

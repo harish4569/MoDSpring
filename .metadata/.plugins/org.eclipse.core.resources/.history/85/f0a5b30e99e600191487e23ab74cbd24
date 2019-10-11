@@ -1,0 +1,14 @@
+package mod.gateway;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+@EnableZ
+public class ModGateWayApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ModGateWayApplication.class, args);
+	}
+
+}

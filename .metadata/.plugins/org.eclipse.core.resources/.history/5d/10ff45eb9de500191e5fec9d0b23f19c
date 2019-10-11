@@ -1,0 +1,5 @@
+package mod.payments.config;
+
+public class HibernateConfig {
+
+}

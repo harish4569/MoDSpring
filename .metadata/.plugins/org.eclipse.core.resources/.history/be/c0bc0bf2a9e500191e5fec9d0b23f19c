@@ -1,0 +1,5 @@
+package mod.search.config;
+
+public class HibernateConfig {
+
+}

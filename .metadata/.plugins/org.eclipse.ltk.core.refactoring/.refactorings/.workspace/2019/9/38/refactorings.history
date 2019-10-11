@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;MODUsers/src/main/java/mod/users/repository/UsersRepository.java&apos;" deleteContents="false" description="Delete resource &apos;MODUsers/src/main/java/mod/users/repository/UsersRepository.java&apos;" element1="/MODUsers/src/main/java/mod/users/repository/UsersRepository.java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1568702027282"/>
+</session>

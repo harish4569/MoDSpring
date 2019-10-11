@@ -1,0 +1,5 @@
+package mod.search.service;
+
+public class MentorSearchService {
+
+}
